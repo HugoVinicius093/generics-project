@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devsuperior</groupId>
-	<artifactId>demolazy</artifactId>
+	<artifactId>genericsProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demolazy</name>
-	<description>Aula DevSuperior Nelio Alves</description>
+	<name>genericsProject</name>
+	<description>Aula Generics</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
